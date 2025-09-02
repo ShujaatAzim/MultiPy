@@ -1,5 +1,5 @@
-print("===      MultiPy         ===")
-print("===   By Shujaat Azim    ===")
+print("=========       MultiPy        =========")
+print("=========    By Shujaat Azim   =========")
 print("\n")
 
 requested_int = input("Enter an integer between 1 and 10: ")
