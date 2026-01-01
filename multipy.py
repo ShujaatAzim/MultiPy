@@ -14,3 +14,5 @@ for x in range(1, int(requested_int) + 1):
   for y in range(1, int(requested_int) + 1):
     row = row + str(x * y) + "\t"
   print(row)
+
+print("\n")
