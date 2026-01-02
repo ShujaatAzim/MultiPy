@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 print("=========       MultiPy        =========")
 print("=========    By Shujaat Azim   =========")
 print("\n")
